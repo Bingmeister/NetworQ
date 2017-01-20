@@ -28,8 +28,9 @@
         android:text="Click it to get high"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/button"
         android:layout_below="@+id/textView2"
-        android:layout_toEndOf="@+id/textView2" />
+        android:layout_alignEnd="@+id/textView2"
+        android:layout_marginTop="96dp"
+        android:id="@+id/button" />
 
 </RelativeLayout>
