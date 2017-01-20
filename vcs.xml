@@ -8,6 +8,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\George Bingham\Documents\GitHub" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/apm/NetworQ" />
   </component>
 </application>
