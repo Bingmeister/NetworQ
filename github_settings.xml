@@ -1,6 +1,7 @@
 <application>
   <component name="GithubSettings">
-    <option name="LOGIN" value="dawnoftheworld" />
+    <option name="LOGIN" value="Bingmeister" />
     <option name="AUTH_TYPE" value="BASIC" />
+    <option name="SAVE_PASSWORD" value="false" />
   </component>
 </application>
